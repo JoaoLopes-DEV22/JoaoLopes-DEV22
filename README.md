@@ -47,7 +47,7 @@
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joaovictorlopes146@gmail.com)  
 
 ## 💡 *Projetos:*  
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JoaoLopes-DEV22&repo=prova-seletiva-spskills&theme=tokyonight)](https://github.com/JoaoLopes-DEV22/prova-seletiva-spskills)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JoaoLopes-DEV22&repo=consumo-api-rick-and-morty&theme=tokyonight)](https://github.com/JoaoLopes-DEV22/consumo-api-rick-and-morty)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JoaoLopes-DEV22&repo=game-mario&theme=tokyonight)](https://github.com/JoaoLopes-DEV22/game-mario)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JoaoLopes-DEV22&repo=prime-burguer&theme=tokyonight)](https://github.com/JoaoLopes-DEV22/prime-burguer)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JoaoLopes-DEV22&repo=prova-seletiva-spskills&theme=dracula)](https://github.com/JoaoLopes-DEV22/prova-seletiva-spskills)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JoaoLopes-DEV22&repo=consumo-api-rick-and-morty&theme=dracula)](https://github.com/JoaoLopes-DEV22/consumo-api-rick-and-morty)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JoaoLopes-DEV22&repo=game-mario&theme=dracula)](https://github.com/JoaoLopes-DEV22/game-mario)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JoaoLopes-DEV22&repo=prime-burguer&theme=dracula)](https://github.com/JoaoLopes-DEV22/prime-burguer)
