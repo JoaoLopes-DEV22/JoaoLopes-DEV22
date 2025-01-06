@@ -5,8 +5,8 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoLopes-DEV22&layout=donut&theme=tokyonight)](https://github.com/JoaoLopes-DEV22)
 
 ## 🏆 *Conquistas e Reconhecimentos:*
-#### - 🥇 **Melhor Aluno dos Cursos Técnicos** do **Senai Taubaté** 
-#### - 🥉 **Medalhista de Bronze na São Paulo Skills 2024**, modalidade **Tecnologias Web #17**  
+### - 🥇 **Melhor Aluno dos Cursos Técnicos** do **Senai Taubaté** 
+### - 🥉 **Medalhista de Bronze na São Paulo Skills 2024**, modalidade **Tecnologias Web #17**  
 
 ## 🖥️ *Tecnologias:*  
 ![HTML Badge](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
