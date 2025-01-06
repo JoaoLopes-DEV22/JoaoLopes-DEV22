@@ -48,3 +48,4 @@
 
 ## 💡 *Projetos:*  
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JoaoLopes-DEV22&repo=prova-seletiva-spskills&theme=tokyonight)](https://github.com/JoaoLopes-DEV22/prova-seletiva-spskills)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JoaoLopes-DEV22&repo=game-mario&theme=tokyonight)](https://github.com/JoaoLopes-DEV22/game-mario)
