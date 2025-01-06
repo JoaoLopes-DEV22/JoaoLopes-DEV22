@@ -2,6 +2,7 @@
 ###  Sou João Victor Lopes, um apaixonado por Tecnologia da Informação desde meu primeiro contato com a área. Com dedicação e entusiasmo, desenvolvi habilidades que me permitem transformar ideias em soluções criativas e funcionais.
 
 ![JoaoLopes-DEV22's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoaoLopes-DEV22&show_icons=true&theme=tokyonight)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoLopes-DEV22&layout=donut)](https://github.com/JoaoLopes-DEV22)
 
 ## 🏆 *Conquistas e Reconhecimentos:*
 #### - 🥇 **Melhor Aluno dos Cursos Técnicos** do **Senai Taubaté** 
